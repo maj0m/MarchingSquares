@@ -1,4 +1,4 @@
-# MarchingSquares
+# Marching Squares
 
 This project implements the Marching Squares algorithm using linear interpolationto create an animated visualization.
 Marching Squares is a contouring algorithm that generates visually interesting shapes based on noise values.
