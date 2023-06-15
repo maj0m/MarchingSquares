@@ -4,6 +4,6 @@ This project implements the Marching Squares algorithm using linear interpolatio
 
 Based off Daniel Shiffman's implementation (https://editor.p5js.org/codingtrain/sketches/18cjVoAX1).
 
-My goal was to optimize the algorithm as much as possible, and the result is an ~5x increase in performance (from my limited benchmarks).
+My goal was to optimize the algorithm as much as possible, and the result is an ~5x increase in performance.
 
 Demo: https://maj0m.github.io/MarchingSquares/
